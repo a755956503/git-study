@@ -1,0 +1,3 @@
+[submodule "git-study-submodule"]
+	path = git-study-submodule
+	url = git@github.com:a755956503/git-study-submodule.git
